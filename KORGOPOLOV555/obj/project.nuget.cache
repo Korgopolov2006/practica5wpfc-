@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+xt9R5dhyKJM3oszbFtp/SDd57s5HgHuy2VOsajWJm0nXC8PtwdX6jcrcZpP9T0e2GX85dl6/IfdGlthh0NPYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\source\\repos\\KORGOPOLOV555\\KORGOPOLOV555\\KORGOPOLOV555.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
